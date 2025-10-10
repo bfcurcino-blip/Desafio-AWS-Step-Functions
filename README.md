@@ -1,14 +1,14 @@
-Desafio AWS Step Functions! 🚀
+## Desafio AWS Step Functions!
 
 Olá! Eu sou a Bianca, e esse é meu repositório do desafio de AWS Step Functions. Aqui eu vou contar um pouco da minha jornada de aprendizado, mostrar meus experimentos e insights, e até aquele momento bagunçado que aconteceu (spoiler: foi aprendizado puro 😅).
 
 
-📌 Sobre o Desafio:
+### 📌 Sobre o Desafio:
 
 Este projeto tem como objetivo explorar o AWS Step Functions, criando workflows automatizados para orquestrar diferentes serviços da AWS. Durante o aprendizado, testei a integração com serviços como Lambda, EC2, DynamoDB e EBS, entendendo como cada serviço pode ser conectado dentro de uma máquina de estado.
 
 
-Conceitos Explorados:
+## 📋 Conceitos Explorados:
 
 🛠 Workflow: a sequência de passos que uma aplicação ou processo deve seguir.
 
@@ -22,7 +22,7 @@ Conceitos Explorados:
 
 
 
-⚙️ Funcionalidades Exploradas:
+## ⚙️ Funcionalidades Exploradas:
 
 •	Criação de máquinas de estado no AWS Step Functions.
 
@@ -36,7 +36,7 @@ Conceitos Explorados:
 
 
 
- 📋 Como Funciona:
+## 📋 Como Funciona:
 
 1.	O workflow começa no estado Start.
 2.	Executa a função Lambda.
@@ -44,17 +44,17 @@ Conceitos Explorados:
 4.	Finaliza no estado End.
    
 
-📍Nota: O fluxo completo é experimental e foi construído explorando diferentes ações disponíveis no Step Functions, sem um objetivo final específico, mas com foco em aprendizado.
+### 📍Nota: O fluxo completo é experimental e foi construído explorando diferentes ações disponíveis no Step Functions, sem um objetivo final específico, mas com foco em aprendizado.
 
 
-📄 Meu Processo de Aprendizado:
+## 📄 Meu Processo de Aprendizado:
 
 1.	Primeiros testes: comecei seguindo os passos básicos, entendendo cada elemento do Step Functions.
 2.	Explorando possibilidades: fui testando e modificando, criando fluxos próprios e tentando entender cada detalhe.
 3.	O “experimento bagunçado”: Na terceira imagem, você vai ver que eu estava testando tudo que aparecia na tela, misturando ideias e fluxos. Sim, ficou uma bagunça! Mas foi nesse caos que eu aprendi coisas valiosas sobre como o Step Functions reage a diferentes inputs, erros e decisões. Cada tentativa foi um passo para entender melhor a ferramenta.
 
 
-🖼️ Capturas de Tela:
+## 🖼️ Capturas de Tela:
 
 1.	Tela de início do console do AWS Step Functions:  
 <img width="1917" height="1033" alt="Imagem 1" src="https://github.com/user-attachments/assets/69615618-0dae-4f9b-af24-15bff9e353f6" />
@@ -75,7 +75,7 @@ Conceitos Explorados:
    <img width="1909" height="823" alt="Imagem 6" src="https://github.com/user-attachments/assets/d883312e-68b9-4fe2-91ba-a36e7f14b385" />
 
  
-💡 Principais Aprendizados:
+## 💡 Principais Aprendizados:
 
 •	Aprendi a criar workflows claros e organizados, mesmo quando comecei bagunçando tudo.
 
@@ -87,7 +87,7 @@ Conceitos Explorados:
 
 
 
-📚Próximos Passos:
+## 📚 Próximos Passos:
 
 •	Refinar meus workflows, deixando tudo mais limpo e eficiente.
 
@@ -96,9 +96,14 @@ Conceitos Explorados:
 •	Continuar explorando e documentando cada insight, para transformar aprendizado em prática real.
 
 
-✨ Conclusão: 
+## ✨ Conclusão: 
 
 Esse desafio foi uma experiência incrível! Mostrou que, mesmo quando tudo parece confuso, a curiosidade e a prática transformam bagunça em conhecimento. 
+
+**Feito com dedicação por [Bianca Curcino](https://github.com/bfcurcino-blip).**  
+
+🚀 *Explorando o poder da nuvem com AWS e DIO!*
+
 
 
 
