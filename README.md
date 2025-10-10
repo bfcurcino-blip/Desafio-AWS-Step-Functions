@@ -10,7 +10,7 @@ Este projeto tem como objetivo explorar o AWS Step Functions, criando workflows 
 
 ## 📋 Conceitos Explorados:
 
-🛠 Workflow: a sequência de passos que uma aplicação ou processo deve seguir.
+🛠 **Workflow:** a sequência de passos que uma aplicação ou processo deve seguir.
 
 🔄 **State Machine:** a “máquina de estados” que controla cada passo do workflow.
 
