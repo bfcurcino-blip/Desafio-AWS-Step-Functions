@@ -1,4 +1,4 @@
-## Desafio AWS Step Functions
+# Desafio AWS Step Functions
 
 Olá! Eu sou a Bianca, e esse é meu repositório do desafio de AWS Step Functions. Aqui eu vou contar um pouco da minha jornada de aprendizado, mostrar meus experimentos e insights, e até aquele momento bagunçado que aconteceu (spoiler: foi aprendizado puro 😅).
 
